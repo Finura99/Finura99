@@ -18,8 +18,11 @@ Currently strengthening my understanding of Python OOP, concurrency and asynchro
 📌 Featured Projects
 
 Trading Toolkit — Backend service for trading-support workflows using FastAPI, PostgreSQL, Pydantic and pytest.
+
 Equities Data API — REST API for equity price data and analytics.
+
 Market Data Processing Pipeline — Ingestion, validation, transformation and storage of financial market data.
+
 Trading Support Tool — Python tooling for validation, reconciliation and downstream support workflows.
 
 🤝 Connect
