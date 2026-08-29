@@ -10,4 +10,4 @@ Databases & Data: PostgreSQL · SQL · Pandas · NumPy
 
 Tools: Docker · Linux · Git · pytest
 
-Currently learning: Java · Spring Boot
+Currently learning: Java · Spring Boot · Prometheus/Grafana · Kafka · gRPC/Websockets
