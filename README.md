@@ -1,13 +1,14 @@
-Hi, I'm Arya 
 
-Junior Backend Software Engineer building Python backend systems with a focus on financial technology and trading workflows.
+# Hey, I'm Arya 
 
-🛠 Tech Stack
+Junior Backend & Systems Engineer specialising in low-latency infrastructure, concurrent data pipelines, and electronic trading workflows. 
 
-Backend: Python · FastAPI · Pydantic
+🚀 Goal: Building performance-critical, revenue-generating systems for front-office environments.
 
-Databases & Data: PostgreSQL · SQL · Pandas · NumPy
+🛠️ The Core Engine:
+- Languages: Python (FastAPI, Pandas/NumPy), Java (Spring Boot)
+- Infrastructure: Docker, AWS (EC2, RDS, S3, ALB), PostgreSQL, Linux
+- Performance: Multi-tiered system boundaries, thread lifecycle management, memory validation pipelines
 
-Tools: Docker · Linux · Git · pytest
+⚡ Currently Architecting: High-throughput microservices using gRPC, stateful WebSockets, and real-time observability (Prometheus/Grafana).
 
-Currently learning: Java · Spring Boot · Prometheus/Grafana · Kafka · gRPC/Websockets
