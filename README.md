@@ -1,4 +1,4 @@
-Hi, I'm Arya 👋
+Hi, I'm Arya 
 
 Junior Backend Software Engineer building Python backend systems with a focus on financial technology and trading workflows.
 
