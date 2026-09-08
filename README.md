@@ -1,5 +1,5 @@
 
-# Hey, I'm Arya 
+# Hi, I'm Arya 
 
 Junior Backend & Systems Engineer specialising in low-latency infrastructure, concurrent data pipelines, and electronic trading workflows. 
 
